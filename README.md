@@ -1,2 +1,2 @@
-# Phaser
-Phaser games
+# Phaser-Template
+Phaser game template
